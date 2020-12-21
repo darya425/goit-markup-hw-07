@@ -7,13 +7,14 @@ $generalBg: #2f303a;
 $accentBgColor: #f5f4fa;
 $whiteColor: #ffffff;
 $blackColor: #000000;
+$borderColor: #eeeeee;
 
 // Fonts
 
 $primaryFont: 'Roboto', sans-serif;
+$logoFont: 'Raleway', sans-serif;
 
 // Standard settings
-
 body {
   background: $whiteColor;
   color: $primaryTextColor;
