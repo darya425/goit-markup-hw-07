@@ -10,3 +10,12 @@
 .logo-span {
   color: $accentColor;
 }
+
+.footer {
+  .logo {
+    display: inline-block;
+    margin-bottom: 20px;
+
+    color: $whiteColor;
+  }
+}
