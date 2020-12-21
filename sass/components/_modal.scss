@@ -197,7 +197,7 @@
 .checkbox:checked + .license-text::after {
   border-color: $accentColor;
   background-color: $accentColor;
-  background-image: url(../../img/chek.svg);
+  background-image: url(../img/chek.svg);
   background-size: contain;
   background-origin: border-box;
 }

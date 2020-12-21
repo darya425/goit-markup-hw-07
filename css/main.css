@@ -859,7 +859,7 @@ img {
 .checkbox:checked + .license-text::after {
   border-color: #2196f3;
   background-color: #2196f3;
-  background-image: url(../../img/chek.svg);
+  background-image: url(../img/chek.svg);
   background-size: contain;
   background-origin: border-box;
 }
